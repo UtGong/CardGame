@@ -54,18 +54,13 @@
    - **Gesture**: Point and select from a virtual menu.
    - **Interaction**: Point to a virtual menu to select a drink, then simulate pulling the drink towards oneself to place an order.
    - **Visual Feedback**: The selected item on the menu enlarges, and a virtual drink appears on the user's table.
-
-9. **Smoking**:
-   - **Gesture**: Bringing fingers to the mouth as if holding a cigarette.
-   - **Interaction**: Users can simulate smoking by first picking up a virtual cigarette or cigar and then bringing it to the mouth to inhale. Smoke effects can be visually rendered.
-   - **Visual Feedback**: Smoke emits from the virtual character’s mouth and cigarette, enhancing realism.
-
-10. **Game Statistics and Information**:
+   
+9. **Game Statistics and Information**:
     - **Gesture**: Pinch and zoom gestures.
     - **Interaction**: Users can bring up a holographic display of game stats or player information by pinching and zooming gestures in the air.
     - **Visual Feedback**: Data panels expand, contract, and close based on gesture movements.
 
-11. **Exit or Leave Game**:
+10. **Exit or Leave Game**:
     - **Gesture**: Simulating pulling a lever.
     - **Interaction**: Users can exit the game by pulling an exit lever, triggering a clear and engaging game-ending sequence.
     - **Visual Feedback**: The interface dynamically reacts, such as a virtual curtain closing or lights dimming, indicating the end of the game.
