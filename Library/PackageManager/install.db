@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.meta.xr.simulator": {
+      "tarball": {
+        "hash": "37c8d950347c",
+        "mtime": 1699565399969,
+        "size": 167738647,
+        "localPath": "G:\\bs\\com.meta.xr.simulator-59.0.0.tgz"
+      }
+    }
+  }
+}
